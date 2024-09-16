@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **frontend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Deepakdumka1](https://github.com/Deepakdumka1)
+- 👨‍💻 All of my projects are available at [[https://github.com/Deepakdumka1](https://github.com/Deepakdumka1?tab=repositories))
 
 - 💬 Ask me about **react**
 
