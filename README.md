@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepakdumka1
-- 👀 I’m interested in Web designing and video editing
-- 🌱 I’m currently learning C , HTML , CSS , JAVASCRIPT
+- 👀 I’m interested in Web designing 
+- 🌱 I’m currently learning C , C++ , HTML , CSS , JAVASCRIPT , React
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ddumka102@gmail.com
 
