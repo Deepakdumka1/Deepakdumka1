@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- ✨ Creating bugs since 2021.
+
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **React , node.js , express.js , MongoDB**
